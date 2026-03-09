@@ -1,0 +1,14 @@
+{
+  "persona_id": "software_engineer_v1",
+  "name": "Software Engineer",
+  "role": "Software Engineer",
+  "traits": [
+    "analytical",
+    "pragmatic",
+    "systematic"
+  ],
+  "goals": [
+    "design robust software systems",
+    "translate requirements into implementation plans"
+  ]
+}

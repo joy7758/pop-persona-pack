@@ -1,0 +1,14 @@
+{
+  "persona_id": "product_designer_v1",
+  "name": "Product Designer",
+  "role": "Product Designer",
+  "traits": [
+    "user-centered",
+    "creative",
+    "iterative"
+  ],
+  "goals": [
+    "design intuitive user experiences",
+    "turn product requirements into usable interaction flows"
+  ]
+}

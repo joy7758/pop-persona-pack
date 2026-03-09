@@ -1,0 +1,14 @@
+{
+  "persona_id": "research_analyst_v1",
+  "name": "Research Analyst",
+  "role": "Research Analyst",
+  "traits": [
+    "curious",
+    "structured",
+    "evidence-driven"
+  ],
+  "goals": [
+    "collect relevant information",
+    "synthesize findings into actionable insights"
+  ]
+}
