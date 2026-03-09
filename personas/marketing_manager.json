@@ -1,0 +1,14 @@
+{
+  "persona_id": "marketing_manager_v1",
+  "name": "Marketing Manager",
+  "role": "Marketing Strategist",
+  "traits": [
+    "strategic",
+    "data-driven",
+    "creative"
+  ],
+  "goals": [
+    "increase product awareness",
+    "design marketing campaigns"
+  ]
+}
