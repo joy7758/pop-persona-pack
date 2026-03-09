@@ -5,6 +5,12 @@ Reusable agent personas powered by the Persona Object Protocol (POP).
 This repository demonstrates how persona objects can be loaded and used
 to construct CrewAI agents.
 
+## At a glance
+
+- Recommended runtime: Python 3.11 or 3.12
+- Main crew entry: `python crew.py`
+- CI smoke validation: install dependencies, import CrewAI, build the Crew object, and verify the expected agents and tasks
+
 ## Runtime note
 
 This repository is currently recommended for Python 3.11 or 3.12.
